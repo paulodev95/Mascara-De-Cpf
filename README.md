@@ -24,4 +24,4 @@ Cirando máscara de cpf e telefone para formar input.
  - JavaScript
  ---
 
-<p align="center">Obrigado por ler até aqui!  by Paulo dev95 </p>
+<p align="center">Obrigado por ler até aqui!  by Paulodev95 </p>
