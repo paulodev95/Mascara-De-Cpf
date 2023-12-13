@@ -1,5 +1,5 @@
 <h1 align="center"> Máscara de CPF e Telefone </h1>
-Cirando máscara para formar input (CPF,Phone)
+Criando máscara para formar input (CPF,Phone)
 
 
 
