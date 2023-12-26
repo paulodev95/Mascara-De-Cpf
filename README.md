@@ -3,6 +3,7 @@
 
 
 
+
 ## 📖 Sobre
 
 Cirando máscara de cpf e telefone para formar input.
@@ -20,8 +21,7 @@ Cirando máscara de cpf e telefone para formar input.
 
 ---
 ## ⚙ Tecnologias
- - HTML
- - JavaScript
- ---
+
+<img align="center" alt="Paulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
 <p align="center">Obrigado por ler até aqui!  by Paulodev95 </p>
